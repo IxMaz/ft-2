@@ -1,6 +1,6 @@
 token= NTI3NDQ5Mjk1NTkxMzA5MzEz.Dw5-0Q.Qj1binMmqD4AnFTLUfz4aqQEyIA
 owner= 510520286488035339 
-prefix= 2
+prefix= 8
 game= 
 stayinchannel=true 
 songinstatus=false 
